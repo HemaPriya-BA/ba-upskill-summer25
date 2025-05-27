@@ -1,1 +1,3 @@
-# Hey there, I’m **Hema Priya Manohar**
+# 👋 Hey there, I’m **Hema Priya Manohar**
+
+I’m a Business Analytics graduate student at The George Washington University. As a former Manager-Data Analysis at Standard Chartered Modeling & Analytics Center, I’ve driven credit card campaign optimizations that boosted activation rates and slashed campaign costs using SAS, SQL, and Excel. Throughout my career, I’ve honed a versatile toolkit in business, data analytics and machine learning. In this portfolio, you’ll find a selection of projects that demonstrate real-world impact—whether it’s improving decision-making, uncovering hidden patterns, or optimizing processes through innovative problem-solving techniques.
