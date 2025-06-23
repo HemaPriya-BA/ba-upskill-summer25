@@ -27,5 +27,7 @@ Conducted a comprehensive analysis of the TATA Online Retail dataset to identify
 **Skills Used:**  
 Python, Pandas, NumPy, Data Cleaning, Data Visualization (Matplotlib), RFM Analysis, Basket Analysis
 
+[🔗 View Project](https://github.com/HemaPriya-BA/TATA-Online-Retail-Analysis)
+
 
 
